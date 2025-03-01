@@ -1,11 +1,22 @@
 # Smart City Backend
+This project is the backend of a Smart City application where users can share their needs, explore a catalog of products available in different shops, and request various services such as painting, electrical work, and more. Users can create accounts, browse shops by category, and make requests for specific services. Shopkeepers and service providers can register, manage their businesses, and receive approvals for their listings. The platform facilitates seamless interaction between users, shop owners, and service providers, enhancing urban convenience through a well-structured API system.
 
 ## Project Overview
-This project is the backend of a Smart City application where users can:
-- Create accounts
-- Request shops and services
-- Post needs and ratings
-- Manage various functionalities through APIs
+Features
+
+   - User Authentication (Signup, Login, Logout)
+
+   - Shop Management (Add, Update, Approve, Search)
+
+   - Product Management (Add, Update, Search, Filter)
+
+   - Service Management (Add, Update, Role-Based Access)
+
+   - Needs and Requests Management
+
+   - Reviews and Ratings for Services and Products
+
+   - Role-Based Access Control
 
 ## Technologies Used
 - Node.js
